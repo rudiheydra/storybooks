@@ -1,2 +1,5 @@
 node_modules
 terraform
+config/config.env
+*key.json
+
