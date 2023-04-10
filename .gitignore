@@ -1,3 +1,36 @@
-node_modules
+
+# Dependency directories
+node_modules/
+
+# Environment variables
+.env
 config/config.env
 *key.json
+
+# Logs
+logs/
+*.log
+
+# Build files
+dist/
+build/
+
+# Testing files
+coverage/
+
+# Editor directories and files
+.vscode/
+.idea/
+*.sublime-*
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Terraform
+.terraform
+*.tfstate
+*.tfstate.*.backup
+*.tfstate.backup
+*.tfvars
+terraform.rc
