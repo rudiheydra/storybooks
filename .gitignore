@@ -6,6 +6,7 @@ node_modules/
 .env
 config/config.env
 *key.json
+.terraform
 
 # Logs
 logs/
